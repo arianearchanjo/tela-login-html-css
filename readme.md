@@ -1,6 +1,6 @@
 # Tela de Login
 
-Projeto de uma tela de login moderna desenvolvida com HTML e CSS, seguindo o tutorial [Projeto Tela de Login com HTML e CSS](https://www.youtube.com) do YouTube.
+Projeto de uma tela de login moderna desenvolvida com HTML e CSS, seguindo o tutorial [Projeto Tela de Login com HTML e CSS](https://www.youtube.com/watch?v=pXAGoP2G2vE) do YouTube.
 
 ## Sobre
 
